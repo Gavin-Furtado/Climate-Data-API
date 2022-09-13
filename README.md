@@ -2,6 +2,7 @@
 Finding relationship between temperature and rainfall.
 
 𝗔𝗯𝗼𝘂𝘁
+
 Using the World Bank Climate Data API the monthly temperatures and rainfall of four countries from different continents namely, India, France, USA, Australia
 were extracted and analysis was done on this data. The primary aim of this project was to investigate whether the rise in temperature leads to increase in rainfall,
 however after data visualisation it was clear that there is no correlation between the two entities.
