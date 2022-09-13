@@ -14,9 +14,13 @@ Whereas in Australia and USA the increase in temperature higher than rainfall th
 have good a good market value for solar energy companies.
 
 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗳𝗮𝗰𝗲𝗱
+
 One major disadvantage was the volume of data, the climate API gives an average temperature of each month over a period of 20 years. Maybe if data of every month of each year was available then more analysis could be done.
 
 𝗙𝘂𝘁𝘂𝗿𝗲 𝘄𝗼𝗿𝗸
+
 • Using more time periods from the past and even obtaining the present data.
+
 • Studying if increase in rainfall could lead to increase in sea levels, to further add to it if sea levels do rise which areas are more likely to be submerged underwater over a period of time.
+
 • If there is no connection between temperature and rainfall, then trying to understand effects of temperature in other areas like food and agriculture. Does increase in temperature cause any change in the amount and type of crops grown in a particular region.
